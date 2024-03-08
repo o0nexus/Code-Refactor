@@ -1,5 +1,7 @@
 # code-refactor
 
+URL: https://o0nexus.github.io/code-refactor/
+
 ## User Story
 
 AS A marketing agency
@@ -29,6 +31,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 
 THEN I find a concise, descriptive title
+
+![image](https://github.com/o0nexus/code-refactor/assets/130420569/2dffa2ac-39ec-4f37-a44e-b6aee37fca36)
+
 
 
 This project (Challenge) is licensed under the terms of the MIT license.
